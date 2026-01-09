@@ -2109,3 +2109,262 @@
     }
   }
 }
+[2026-01-09 15:56:53.418] [ERROR   ] [ERROR     ] [Thread-139860365341312] {
+  "timestamp": "2026-01-09T15:56:53.418674",
+  "error_type": "DolphinX1_Setup",
+  "message": "Failed to setup: Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1.",
+  "stack_trace": null,
+  "context": {}
+}
+[2026-01-09 15:57:09.790] [ERROR   ] [ERROR     ] [Thread-139860365341312] {
+  "timestamp": "2026-01-09T15:57:09.790040",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "affiliate marketing"
+    }
+  }
+}
+[2026-01-09 15:57:10.069] [ERROR   ] [ERROR     ] [Thread-139860365341312] {
+  "timestamp": "2026-01-09T15:57:10.069632",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "affiliatemarketing"
+    }
+  }
+}
+[2026-01-09 15:57:15.207] [ERROR   ] [ERROR     ] [Thread-139860365341312] {
+  "timestamp": "2026-01-09T15:57:15.206969",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "make money online"
+    }
+  }
+}
+[2026-01-09 15:57:15.367] [ERROR   ] [ERROR     ] [Thread-139860365341312] {
+  "timestamp": "2026-01-09T15:57:15.367543",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "makemoneyonline"
+    }
+  }
+}
+[2026-01-09 15:57:23.549] [ERROR   ] [ERROR     ] [Thread-139860365341312] {
+  "timestamp": "2026-01-09T15:57:23.549007",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "passive income"
+    }
+  }
+}
+[2026-01-09 15:57:23.654] [ERROR   ] [ERROR     ] [Thread-139860365341312] {
+  "timestamp": "2026-01-09T15:57:23.654748",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "passiveincome"
+    }
+  }
+}
+[2026-01-09 15:57:34.239] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:57:34.239093",
+  "error_type": "DolphinX1_Setup",
+  "message": "Failed to setup: Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1.",
+  "stack_trace": null,
+  "context": {}
+}
+[2026-01-09 15:57:48.368] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:57:48.368606",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "affiliate marketing"
+    }
+  }
+}
+[2026-01-09 15:57:48.508] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:57:48.508730",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "affiliatemarketing"
+    }
+  }
+}
+[2026-01-09 15:57:53.559] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:57:53.559755",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "make money online"
+    }
+  }
+}
+[2026-01-09 15:57:53.655] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:57:53.655755",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "makemoneyonline"
+    }
+  }
+}
+[2026-01-09 15:58:02.955] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:58:02.955116",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "passive income"
+    }
+  }
+}
+[2026-01-09 15:58:03.047] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:58:03.047132",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "passiveincome"
+    }
+  }
+}
+[2026-01-09 15:58:11.813] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:58:11.813778",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "side hustle"
+    }
+  }
+}
+[2026-01-09 15:58:11.899] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:58:11.899563",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "sidehustle"
+    }
+  }
+}
+[2026-01-09 15:58:18.469] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:58:18.469262",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "online business"
+    }
+  }
+}
+[2026-01-09 15:58:18.553] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:58:18.553324",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "onlinebusiness"
+    }
+  }
+}
+[2026-01-09 15:58:24.428] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:58:24.428505",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "digital marketing"
+    }
+  }
+}
+[2026-01-09 15:58:24.548] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:58:24.548646",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "digitalmarketing"
+    }
+  }
+}
+[2026-01-09 15:58:31.482] [ERROR   ] [ERROR     ] [Thread-140304861180544] {
+  "timestamp": "2026-01-09T15:58:31.482219",
+  "error_type": "DolphinX1_Setup",
+  "message": "Failed to setup: Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1.",
+  "stack_trace": null,
+  "context": {}
+}
+[2026-01-09 15:58:32.707] [ERROR   ] [ERROR     ] [Thread-140689527960192] {
+  "timestamp": "2026-01-09T15:58:32.707289",
+  "error_type": "SearchByKeyword",
+  "message": "type object 'Search' has no attribute 'videos'",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "keyword": "entrepreneur"
+    }
+  }
+}
+[2026-01-09 15:58:44.454] [ERROR   ] [ERROR     ] [Thread-140606676394624] {
+  "timestamp": "2026-01-09T15:58:44.453863",
+  "error_type": "DolphinX1_Setup",
+  "message": "Failed to setup: Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1.",
+  "stack_trace": null,
+  "context": {}
+}
+[2026-01-09 15:58:59.528] [ERROR   ] [ERROR     ] [Thread-140606676394624] {
+  "timestamp": "2026-01-09T15:58:59.528844",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "affiliatemarketing"
+    }
+  }
+}
+[2026-01-09 15:59:08.099] [ERROR   ] [ERROR     ] [Thread-140606676394624] {
+  "timestamp": "2026-01-09T15:59:08.099207",
+  "error_type": "SearchByHashtag",
+  "message": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy",
+  "stack_trace": null,
+  "context": {
+    "context": {
+      "hashtag": "makemoneyonline"
+    }
+  }
+}

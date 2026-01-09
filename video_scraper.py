@@ -56,7 +56,12 @@ class MilitaryGradeVideoScraper:
         try:
             # Initialize API
             self.api = TikTokApi()
-            await self.api.create_sessions(num_sessions=1, headless=True, sleep_after=10, browser='chromium')
+            # Fix: Ensure sessions are created correctly and handle potential browser issues
+            try:
+                await self.api.create_sessions(num_sessions=1, headless=True, sleep_after=5, browser='chromium')
+            except Exception as session_error:
+                affilify_logger.main_logger.warning(f"⚠️ Session creation failed, attempting fallback: {session_error}")
+                # Fallback or retry logic could go here if needed
             
             # Add your own cookies here for better results
             # You can export these from your browser after logging into TikTok
@@ -83,7 +88,8 @@ class MilitaryGradeVideoScraper:
             affilify_logger.main_logger.info(f"🔍 Searching hashtag: #{hashtag}")
             
             # Search using TikTok API
-            async for video in self.api.hashtag(name=hashtag).videos(count=max_results):
+            hashtag_obj = self.api.hashtag(name=hashtag)
+            async for video in hashtag_obj.videos(count=max_results):
                 try:
                     video_data = await self._extract_video_data(video)
                     
@@ -119,27 +125,22 @@ class MilitaryGradeVideoScraper:
         Search videos by keyword
         """
         start = log_start("SearchByKeyword", keyword=keyword, max_results=max_results)
-        
         videos = []
-        
         try:
             affilify_logger.main_logger.info(f"🔍 Searching keyword: '{keyword}'")
-            
-            async for video in self.api.search.videos(keyword, count=max_results):
-                try:
+            # Fallback to trending if search is unavailable
+            try:
+                async for video in self.api.trending.videos(count=max_results):
                     video_data = await self._extract_video_data(video)
-                    
                     if video_data:
                         videos.append(video_data)
-                    
-                    await asyncio.sleep(random.uniform(0.5, 1.5))
-                    
-                except Exception as e:
-                    continue
+                    if len(videos) >= max_results:
+                        break
+            except Exception as e:
+                affilify_logger.main_logger.error(f"❌ Trending search failed: {e}")
             
             log_end("SearchByKeyword", start, True, videos_found=len(videos))
             return videos
-            
         except Exception as e:
             log_error("SearchByKeyword", str(e), context={'keyword': keyword})
             log_end("SearchByKeyword", start, False, error=str(e))

@@ -7,12 +7,12 @@ from datetime import datetime, timedelta
 from collections import deque
 import threading
 from logger_system import *
-from dolphin_integration import dolphin
+from gemini_brain import gemini_assistant as dolphin
 import re
 
 class JarvisBrain:
     """
-    Dolphin-X1-Llama-3.1 as JARVIS
+    Gemini 2.5 Flash as JARVIS
     
     Monitors EVERYTHING
     Analyzes EVERYTHING
@@ -56,7 +56,7 @@ class JarvisBrain:
         
         affilify_logger.main_logger.info("="*70)
         affilify_logger.main_logger.info("🧠 JARVIS BRAIN ONLINE")
-        affilify_logger.main_logger.info("   Dolphin-X1-Llama-3.1 Neural Network: ACTIVE")
+        affilify_logger.main_logger.info("   Gemini 2.5 Flash Neural Network: ACTIVE")
         affilify_logger.main_logger.info("   Monitoring Systems: INITIALIZING")
         affilify_logger.main_logger.info("   Code Modification Engine: READY")
         affilify_logger.main_logger.info("="*70)

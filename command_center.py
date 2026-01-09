@@ -7,6 +7,7 @@ from datetime import datetime
 from typing import Dict, List
 from logger_system import *
 from jarvis_brain import jarvis
+from gemini_brain import init_gemini_assistant
 from target_coordinator import MasterTargetCoordinator
 from tiktok_automation_v2 import TikTokAutomationV2
 from cookie_manager import CookieManager
@@ -80,9 +81,10 @@ class AffillifyCommandCenter:
         
         try:
             # 1. Initialize Gemini
-            affilify_logger.main_logger.info("   1/5 Initializing Gemini 2.5 Pro...")
+            affilify_logger.main_logger.info("   1/5 Initializing Gemini 2.5 Pro & Flash...")
             self.gemini = GeminiCommentGenerator(gemini_api_key)
-            affilify_logger.main_logger.info("   ✅ Gemini ready")
+            init_gemini_assistant(gemini_api_key)
+            affilify_logger.main_logger.info("   ✅ Gemini AI Engines ready")
             
             # 2. Start JARVIS Brain
             affilify_logger.main_logger.info("   2/5 Booting JARVIS Brain...")

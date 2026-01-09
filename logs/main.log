@@ -3031,3 +3031,596 @@ Call log:
 [2026-01-09 12:57:33.783] [DEBUG   ] [MAIN      ] [Thread-140513488908928]    Details: {
   "error": "No sessions created, please create sessions first"
 }
+[2026-01-09 15:56:49.460] [INFO    ] [MAIN      ] [Thread-139860365341312] ======================================================================
+[2026-01-09 15:56:49.460] [INFO    ] [MAIN      ] [Thread-139860365341312] 🚀 AFFILIFY TIKTOK DOMINATION SYSTEM - LOGGING INITIALIZED
+[2026-01-09 15:56:49.460] [INFO    ] [MAIN      ] [Thread-139860365341312] ======================================================================
+[2026-01-09 15:56:50.747] [INFO    ] [MAIN      ] [Thread-139860365341312] ======================================================================
+[2026-01-09 15:56:50.747] [INFO    ] [MAIN      ] [Thread-139860365341312] 🧠 JARVIS BRAIN ONLINE
+[2026-01-09 15:56:50.747] [INFO    ] [MAIN      ] [Thread-139860365341312]    Gemini 2.5 Flash Neural Network: ACTIVE
+[2026-01-09 15:56:50.747] [INFO    ] [MAIN      ] [Thread-139860365341312]    Monitoring Systems: INITIALIZING
+[2026-01-09 15:56:50.747] [INFO    ] [MAIN      ] [Thread-139860365341312]    Code Modification Engine: READY
+[2026-01-09 15:56:50.747] [INFO    ] [MAIN      ] [Thread-139860365341312] ======================================================================
+[2026-01-09 15:56:52.470] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: DolphinX1_Setup
+[2026-01-09 15:56:52.470] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {
+  "model": "dolphin-x1-llama-3.1:latest"
+}
+[2026-01-09 15:56:53.419] [ERROR   ] [MAIN      ] [Thread-139860365341312] 🔥 ERROR: DolphinX1_Setup | Failed to setup: Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1.
+[2026-01-09 15:56:53.419] [INFO    ] [MAIN      ] [Thread-139860365341312] ⏹️  END: DolphinX1_Setup | ❌ FAILED | Duration: 0.95s
+[2026-01-09 15:56:53.419] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Details: {
+  "error": "Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1."
+}
+[2026-01-09 15:56:53.423] [INFO    ] [MAIN      ] [Thread-139860365341312] 
+================================================================================
+[2026-01-09 15:56:53.423] [INFO    ] [MAIN      ] [Thread-139860365341312] 🏢 AFFILIFY COMMAND CENTER - INITIALIZATION SEQUENCE
+[2026-01-09 15:56:53.423] [INFO    ] [MAIN      ] [Thread-139860365341312] ================================================================================
+[2026-01-09 15:56:53.424] [INFO    ] [MAIN      ] [Thread-139860365341312] 🏛️ Affillify Domination System Engine initialized
+[2026-01-09 15:56:53.424] [INFO    ] [MAIN      ] [Thread-139860365341312] 🤖 TikTok Automation V2 initialized
+[2026-01-09 15:56:53.424] [INFO    ] [MAIN      ] [Thread-139860365341312] 🎯 Military-Grade Video Scraper initialized
+[2026-01-09 15:56:53.424] [INFO    ] [MAIN      ] [Thread-139860365341312] 🔬 Advanced Video Filter initialized
+[2026-01-09 15:56:53.425] [INFO    ] [MAIN      ] [Thread-139860365341312] 🎯 Comment Strategy Selector initialized
+[2026-01-09 15:56:53.425] [INFO    ] [MAIN      ] [Thread-139860365341312] 🎯 Master Target Coordinator initialized
+[2026-01-09 15:56:53.425] [INFO    ] [MAIN      ] [Thread-139860365341312] 🎯 Comment Strategy Selector initialized
+[2026-01-09 15:56:53.425] [INFO    ] [MAIN      ] [Thread-139860365341312] ✅ Command Center initialized
+[2026-01-09 15:56:53.425] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: CommandCenter_Startup
+[2026-01-09 15:56:53.425] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {}
+[2026-01-09 15:56:53.425] [INFO    ] [MAIN      ] [Thread-139860365341312] 
+🚀 STARTING SYSTEM COMPONENTS...
+[2026-01-09 15:56:53.425] [INFO    ] [MAIN      ] [Thread-139860365341312]    1/5 Initializing Gemini 2.5 Pro & Flash...
+[2026-01-09 15:56:53.425] [INFO    ] [MAIN      ] [Thread-139860365341312] 🧠 Gemini Comment Generator initialized with AFFILIFY knowledge
+[2026-01-09 15:56:53.426] [INFO    ] [MAIN      ] [Thread-139860365341312] ✅ Gemini Assistant initialized with gemini-2.5-flash
+[2026-01-09 15:56:53.426] [INFO    ] [MAIN      ] [Thread-139860365341312]    ✅ Gemini AI Engines ready
+[2026-01-09 15:56:53.426] [INFO    ] [MAIN      ] [Thread-139860365341312]    2/5 Booting JARVIS Brain...
+[2026-01-09 15:56:53.426] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: JarvisBrain_Startup
+[2026-01-09 15:56:53.426] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {}
+[2026-01-09 15:56:53.426] [INFO    ] [MAIN      ] [Thread-139860365341312] 
+🚀 JARVIS STARTUP SEQUENCE
+[2026-01-09 15:56:53.426] [INFO    ] [MAIN      ] [Thread-139860365341312] ⏹️  END: JarvisBrain_Startup | ✅ SUCCESS | Duration: 0.00s
+[2026-01-09 15:56:53.426] [INFO    ] [MAIN      ] [Thread-139860365341312] ✅ JARVIS FULLY OPERATIONAL
+[2026-01-09 15:56:53.427] [INFO    ] [MAIN      ] [Thread-139860365341312]    'Ready to assist, sir.'
+
+[2026-01-09 15:56:53.427] [INFO    ] [MAIN      ] [Thread-139860365341312] 📊 Log Monitor: ACTIVE
+[2026-01-09 15:56:53.427] [INFO    ] [MAIN      ] [Thread-139860365341312] ⚡ Performance Monitor: ACTIVE
+[2026-01-09 15:56:53.427] [INFO    ] [MAIN      ] [Thread-139860365341312] 🔥 Error Monitor: ACTIVE
+[2026-01-09 15:56:53.427] [INFO    ] [MAIN      ] [Thread-139860365341312] 🎯 Optimization Engine: ACTIVE
+[2026-01-09 15:56:53.427] [INFO    ] [MAIN      ] [Thread-139860365341312] 🛡️ Proactive Maintenance: ACTIVE
+[2026-01-09 15:56:55.429] [INFO    ] [MAIN      ] [Thread-139860365341312]    ✅ JARVIS operational
+[2026-01-09 15:56:55.429] [INFO    ] [MAIN      ] [Thread-139860365341312]    3/5 Verifying TikTok accounts...
+[2026-01-09 15:56:55.430] [INFO    ] [MAIN      ] [Thread-139860365341312]    ✅ 0 accounts ready
+[2026-01-09 15:56:55.430] [INFO    ] [MAIN      ] [Thread-139860365341312]    4/5 Starting real-time dashboard...
+[2026-01-09 15:56:56.431] [INFO    ] [MAIN      ] [Thread-139860365341312]    ✅ Dashboard live at http://localhost:8000
+[2026-01-09 15:56:56.432] [INFO    ] [MAIN      ] [Thread-139860365341312]    5/5 Discovering high-value targets...
+[2026-01-09 15:56:56.432] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: DiscoverAndPrioritizeTargets
+[2026-01-09 15:56:56.432] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {
+  "max_videos": 500
+}
+[2026-01-09 15:56:56.432] [INFO    ] [MAIN      ] [Thread-139860365341312] 
+======================================================================
+[2026-01-09 15:56:56.432] [INFO    ] [MAIN      ] [Thread-139860365341312] 🚀 MASTER TARGET COORDINATOR - FULL PIPELINE
+[2026-01-09 15:56:56.432] [INFO    ] [MAIN      ] [Thread-139860365341312] ======================================================================
+[2026-01-09 15:56:56.432] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: InitializeTikTokAPI
+[2026-01-09 15:56:56.432] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {}
+[2026-01-09 15:57:09.788] [INFO    ] [MAIN      ] [Thread-139860365341312] ⏹️  END: InitializeTikTokAPI | ✅ SUCCESS | Duration: 13.36s
+[2026-01-09 15:57:09.788] [INFO    ] [MAIN      ] [Thread-139860365341312] ✅ TikTok API ready
+[2026-01-09 15:57:09.789] [INFO    ] [MAIN      ] [Thread-139860365341312] 
+📡 PHASE 1: Video Discovery
+[2026-01-09 15:57:09.789] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: DiscoverTargets
+[2026-01-09 15:57:09.789] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {
+  "max_videos": 500
+}
+[2026-01-09 15:57:09.789] [INFO    ] [MAIN      ] [Thread-139860365341312] ======================================================================
+[2026-01-09 15:57:09.789] [INFO    ] [MAIN      ] [Thread-139860365341312] 🎯 STARTING COMPREHENSIVE TARGET DISCOVERY
+[2026-01-09 15:57:09.789] [INFO    ] [MAIN      ] [Thread-139860365341312] ======================================================================
+[2026-01-09 15:57:09.789] [INFO    ] [MAIN      ] [Thread-139860365341312] 
+🔍 Searching niche: affiliate marketing
+[2026-01-09 15:57:09.789] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: SearchByKeyword
+[2026-01-09 15:57:09.789] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {
+  "keyword": "affiliate marketing",
+  "max_results": 50
+}
+[2026-01-09 15:57:09.789] [INFO    ] [MAIN      ] [Thread-139860365341312] 🔍 Searching keyword: 'affiliate marketing'
+[2026-01-09 15:57:09.790] [ERROR   ] [MAIN      ] [Thread-139860365341312] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:57:09.790] [INFO    ] [MAIN      ] [Thread-139860365341312] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:57:09.790] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:57:09.790] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: SearchByHashtag
+[2026-01-09 15:57:09.790] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {
+  "hashtag": "affiliatemarketing",
+  "max_results": 50
+}
+[2026-01-09 15:57:09.790] [INFO    ] [MAIN      ] [Thread-139860365341312] 🔍 Searching hashtag: #affiliatemarketing
+[2026-01-09 15:57:10.069] [ERROR   ] [MAIN      ] [Thread-139860365341312] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:57:10.070] [INFO    ] [MAIN      ] [Thread-139860365341312] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.28s
+[2026-01-09 15:57:10.070] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:57:15.206] [INFO    ] [MAIN      ] [Thread-139860365341312]    📊 Total videos so far: 0
+[2026-01-09 15:57:15.206] [INFO    ] [MAIN      ] [Thread-139860365341312] 
+🔍 Searching niche: make money online
+[2026-01-09 15:57:15.206] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: SearchByKeyword
+[2026-01-09 15:57:15.206] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {
+  "keyword": "make money online",
+  "max_results": 50
+}
+[2026-01-09 15:57:15.206] [INFO    ] [MAIN      ] [Thread-139860365341312] 🔍 Searching keyword: 'make money online'
+[2026-01-09 15:57:15.207] [ERROR   ] [MAIN      ] [Thread-139860365341312] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:57:15.207] [INFO    ] [MAIN      ] [Thread-139860365341312] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:57:15.207] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:57:15.207] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: SearchByHashtag
+[2026-01-09 15:57:15.207] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {
+  "hashtag": "makemoneyonline",
+  "max_results": 50
+}
+[2026-01-09 15:57:15.207] [INFO    ] [MAIN      ] [Thread-139860365341312] 🔍 Searching hashtag: #makemoneyonline
+[2026-01-09 15:57:15.367] [ERROR   ] [MAIN      ] [Thread-139860365341312] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:57:15.368] [INFO    ] [MAIN      ] [Thread-139860365341312] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.16s
+[2026-01-09 15:57:15.368] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:57:23.428] [INFO    ] [MAIN      ] [Thread-139860365341312] 🏛️ Affillify Domination System Engine initialized
+[2026-01-09 15:57:23.548] [INFO    ] [MAIN      ] [Thread-139860365341312]    📊 Total videos so far: 0
+[2026-01-09 15:57:23.548] [INFO    ] [MAIN      ] [Thread-139860365341312] 
+🔍 Searching niche: passive income
+[2026-01-09 15:57:23.548] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: SearchByKeyword
+[2026-01-09 15:57:23.548] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {
+  "keyword": "passive income",
+  "max_results": 50
+}
+[2026-01-09 15:57:23.548] [INFO    ] [MAIN      ] [Thread-139860365341312] 🔍 Searching keyword: 'passive income'
+[2026-01-09 15:57:23.549] [ERROR   ] [MAIN      ] [Thread-139860365341312] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:57:23.549] [INFO    ] [MAIN      ] [Thread-139860365341312] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:57:23.549] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:57:23.549] [INFO    ] [MAIN      ] [Thread-139860365341312] ▶️  START: SearchByHashtag
+[2026-01-09 15:57:23.549] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Context: {
+  "hashtag": "passiveincome",
+  "max_results": 50
+}
+[2026-01-09 15:57:23.549] [INFO    ] [MAIN      ] [Thread-139860365341312] 🔍 Searching hashtag: #passiveincome
+[2026-01-09 15:57:23.654] [ERROR   ] [MAIN      ] [Thread-139860365341312] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:57:23.655] [INFO    ] [MAIN      ] [Thread-139860365341312] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.11s
+[2026-01-09 15:57:23.655] [DEBUG   ] [MAIN      ] [Thread-139860365341312]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:57:30.318] [INFO    ] [MAIN      ] [Thread-140689527960192] ======================================================================
+[2026-01-09 15:57:30.319] [INFO    ] [MAIN      ] [Thread-140689527960192] 🚀 AFFILIFY TIKTOK DOMINATION SYSTEM - LOGGING INITIALIZED
+[2026-01-09 15:57:30.319] [INFO    ] [MAIN      ] [Thread-140689527960192] ======================================================================
+[2026-01-09 15:57:31.724] [INFO    ] [MAIN      ] [Thread-140689527960192] ======================================================================
+[2026-01-09 15:57:31.725] [INFO    ] [MAIN      ] [Thread-140689527960192] 🧠 JARVIS BRAIN ONLINE
+[2026-01-09 15:57:31.725] [INFO    ] [MAIN      ] [Thread-140689527960192]    Gemini 2.5 Flash Neural Network: ACTIVE
+[2026-01-09 15:57:31.725] [INFO    ] [MAIN      ] [Thread-140689527960192]    Monitoring Systems: INITIALIZING
+[2026-01-09 15:57:31.725] [INFO    ] [MAIN      ] [Thread-140689527960192]    Code Modification Engine: READY
+[2026-01-09 15:57:31.725] [INFO    ] [MAIN      ] [Thread-140689527960192] ======================================================================
+[2026-01-09 15:57:33.585] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: DolphinX1_Setup
+[2026-01-09 15:57:33.586] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "model": "dolphin-x1-llama-3.1:latest"
+}
+[2026-01-09 15:57:34.239] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: DolphinX1_Setup | Failed to setup: Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1.
+[2026-01-09 15:57:34.239] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: DolphinX1_Setup | ❌ FAILED | Duration: 0.65s
+[2026-01-09 15:57:34.239] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1."
+}
+[2026-01-09 15:57:34.243] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+================================================================================
+[2026-01-09 15:57:34.243] [INFO    ] [MAIN      ] [Thread-140689527960192] 🏢 AFFILIFY COMMAND CENTER - INITIALIZATION SEQUENCE
+[2026-01-09 15:57:34.243] [INFO    ] [MAIN      ] [Thread-140689527960192] ================================================================================
+[2026-01-09 15:57:34.244] [INFO    ] [MAIN      ] [Thread-140689527960192] 🏛️ Affillify Domination System Engine initialized
+[2026-01-09 15:57:34.244] [INFO    ] [MAIN      ] [Thread-140689527960192] 🤖 TikTok Automation V2 initialized
+[2026-01-09 15:57:34.244] [INFO    ] [MAIN      ] [Thread-140689527960192] 🎯 Military-Grade Video Scraper initialized
+[2026-01-09 15:57:34.244] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔬 Advanced Video Filter initialized
+[2026-01-09 15:57:34.244] [INFO    ] [MAIN      ] [Thread-140689527960192] 🎯 Comment Strategy Selector initialized
+[2026-01-09 15:57:34.245] [INFO    ] [MAIN      ] [Thread-140689527960192] 🎯 Master Target Coordinator initialized
+[2026-01-09 15:57:34.245] [INFO    ] [MAIN      ] [Thread-140689527960192] 🎯 Comment Strategy Selector initialized
+[2026-01-09 15:57:34.245] [INFO    ] [MAIN      ] [Thread-140689527960192] ✅ Command Center initialized
+[2026-01-09 15:57:34.245] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: CommandCenter_Startup
+[2026-01-09 15:57:34.245] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {}
+[2026-01-09 15:57:34.245] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+🚀 STARTING SYSTEM COMPONENTS...
+[2026-01-09 15:57:34.245] [INFO    ] [MAIN      ] [Thread-140689527960192]    1/5 Initializing Gemini 2.5 Pro & Flash...
+[2026-01-09 15:57:34.245] [INFO    ] [MAIN      ] [Thread-140689527960192] 🧠 Gemini Comment Generator initialized with AFFILIFY knowledge
+[2026-01-09 15:57:34.245] [INFO    ] [MAIN      ] [Thread-140689527960192] ✅ Gemini Assistant initialized with gemini-2.5-flash
+[2026-01-09 15:57:34.246] [INFO    ] [MAIN      ] [Thread-140689527960192]    ✅ Gemini AI Engines ready
+[2026-01-09 15:57:34.246] [INFO    ] [MAIN      ] [Thread-140689527960192]    2/5 Booting JARVIS Brain...
+[2026-01-09 15:57:34.246] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: JarvisBrain_Startup
+[2026-01-09 15:57:34.246] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {}
+[2026-01-09 15:57:34.246] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+🚀 JARVIS STARTUP SEQUENCE
+[2026-01-09 15:57:34.246] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: JarvisBrain_Startup | ✅ SUCCESS | Duration: 0.00s
+[2026-01-09 15:57:34.246] [INFO    ] [MAIN      ] [Thread-140689527960192] ✅ JARVIS FULLY OPERATIONAL
+[2026-01-09 15:57:34.246] [INFO    ] [MAIN      ] [Thread-140689527960192]    'Ready to assist, sir.'
+
+[2026-01-09 15:57:34.246] [INFO    ] [MAIN      ] [Thread-140689527960192] 📊 Log Monitor: ACTIVE
+[2026-01-09 15:57:34.247] [INFO    ] [MAIN      ] [Thread-140689527960192] ⚡ Performance Monitor: ACTIVE
+[2026-01-09 15:57:34.247] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔥 Error Monitor: ACTIVE
+[2026-01-09 15:57:34.247] [INFO    ] [MAIN      ] [Thread-140689527960192] 🎯 Optimization Engine: ACTIVE
+[2026-01-09 15:57:34.247] [INFO    ] [MAIN      ] [Thread-140689527960192] 🛡️ Proactive Maintenance: ACTIVE
+[2026-01-09 15:57:36.249] [INFO    ] [MAIN      ] [Thread-140689527960192]    ✅ JARVIS operational
+[2026-01-09 15:57:36.249] [INFO    ] [MAIN      ] [Thread-140689527960192]    3/5 Verifying TikTok accounts...
+[2026-01-09 15:57:36.250] [INFO    ] [MAIN      ] [Thread-140689527960192]    ✅ 0 accounts ready
+[2026-01-09 15:57:36.250] [INFO    ] [MAIN      ] [Thread-140689527960192]    4/5 Starting real-time dashboard...
+[2026-01-09 15:57:37.251] [INFO    ] [MAIN      ] [Thread-140689527960192]    ✅ Dashboard live at http://localhost:8000
+[2026-01-09 15:57:37.252] [INFO    ] [MAIN      ] [Thread-140689527960192]    5/5 Discovering high-value targets...
+[2026-01-09 15:57:37.252] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: DiscoverAndPrioritizeTargets
+[2026-01-09 15:57:37.252] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "max_videos": 500
+}
+[2026-01-09 15:57:37.252] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+======================================================================
+[2026-01-09 15:57:37.252] [INFO    ] [MAIN      ] [Thread-140689527960192] 🚀 MASTER TARGET COORDINATOR - FULL PIPELINE
+[2026-01-09 15:57:37.253] [INFO    ] [MAIN      ] [Thread-140689527960192] ======================================================================
+[2026-01-09 15:57:37.253] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: InitializeTikTokAPI
+[2026-01-09 15:57:37.253] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {}
+[2026-01-09 15:57:48.367] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: InitializeTikTokAPI | ✅ SUCCESS | Duration: 11.11s
+[2026-01-09 15:57:48.367] [INFO    ] [MAIN      ] [Thread-140689527960192] ✅ TikTok API ready
+[2026-01-09 15:57:48.367] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+📡 PHASE 1: Video Discovery
+[2026-01-09 15:57:48.367] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: DiscoverTargets
+[2026-01-09 15:57:48.367] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "max_videos": 500
+}
+[2026-01-09 15:57:48.367] [INFO    ] [MAIN      ] [Thread-140689527960192] ======================================================================
+[2026-01-09 15:57:48.367] [INFO    ] [MAIN      ] [Thread-140689527960192] 🎯 STARTING COMPREHENSIVE TARGET DISCOVERY
+[2026-01-09 15:57:48.368] [INFO    ] [MAIN      ] [Thread-140689527960192] ======================================================================
+[2026-01-09 15:57:48.368] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+🔍 Searching niche: affiliate marketing
+[2026-01-09 15:57:48.368] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByKeyword
+[2026-01-09 15:57:48.368] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "keyword": "affiliate marketing",
+  "max_results": 50
+}
+[2026-01-09 15:57:48.368] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching keyword: 'affiliate marketing'
+[2026-01-09 15:57:48.368] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:57:48.368] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:57:48.368] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:57:48.369] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByHashtag
+[2026-01-09 15:57:48.369] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "hashtag": "affiliatemarketing",
+  "max_results": 50
+}
+[2026-01-09 15:57:48.369] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching hashtag: #affiliatemarketing
+[2026-01-09 15:57:48.508] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:57:48.509] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.14s
+[2026-01-09 15:57:48.509] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:57:53.558] [INFO    ] [MAIN      ] [Thread-140689527960192]    📊 Total videos so far: 0
+[2026-01-09 15:57:53.559] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+🔍 Searching niche: make money online
+[2026-01-09 15:57:53.559] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByKeyword
+[2026-01-09 15:57:53.559] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "keyword": "make money online",
+  "max_results": 50
+}
+[2026-01-09 15:57:53.559] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching keyword: 'make money online'
+[2026-01-09 15:57:53.559] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:57:53.560] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:57:53.560] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:57:53.560] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByHashtag
+[2026-01-09 15:57:53.560] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "hashtag": "makemoneyonline",
+  "max_results": 50
+}
+[2026-01-09 15:57:53.560] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching hashtag: #makemoneyonline
+[2026-01-09 15:57:53.656] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:57:53.656] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.10s
+[2026-01-09 15:57:53.656] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:58:02.954] [INFO    ] [MAIN      ] [Thread-140689527960192]    📊 Total videos so far: 0
+[2026-01-09 15:58:02.954] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+🔍 Searching niche: passive income
+[2026-01-09 15:58:02.954] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByKeyword
+[2026-01-09 15:58:02.954] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "keyword": "passive income",
+  "max_results": 50
+}
+[2026-01-09 15:58:02.955] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching keyword: 'passive income'
+[2026-01-09 15:58:02.955] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:58:02.955] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:58:02.955] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:58:02.955] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByHashtag
+[2026-01-09 15:58:02.955] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "hashtag": "passiveincome",
+  "max_results": 50
+}
+[2026-01-09 15:58:02.955] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching hashtag: #passiveincome
+[2026-01-09 15:58:03.047] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:58:03.047] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.09s
+[2026-01-09 15:58:03.047] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:58:04.248] [INFO    ] [MAIN      ] [Thread-140689527960192] 🏛️ Affillify Domination System Engine initialized
+[2026-01-09 15:58:11.812] [INFO    ] [MAIN      ] [Thread-140689527960192]    📊 Total videos so far: 0
+[2026-01-09 15:58:11.813] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+🔍 Searching niche: side hustle
+[2026-01-09 15:58:11.813] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByKeyword
+[2026-01-09 15:58:11.813] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "keyword": "side hustle",
+  "max_results": 50
+}
+[2026-01-09 15:58:11.813] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching keyword: 'side hustle'
+[2026-01-09 15:58:11.813] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:58:11.814] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:58:11.814] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:58:11.814] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByHashtag
+[2026-01-09 15:58:11.814] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "hashtag": "sidehustle",
+  "max_results": 50
+}
+[2026-01-09 15:58:11.814] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching hashtag: #sidehustle
+[2026-01-09 15:58:11.899] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:58:11.900] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.09s
+[2026-01-09 15:58:11.900] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:58:18.468] [INFO    ] [MAIN      ] [Thread-140689527960192]    📊 Total videos so far: 0
+[2026-01-09 15:58:18.468] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+🔍 Searching niche: online business
+[2026-01-09 15:58:18.468] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByKeyword
+[2026-01-09 15:58:18.469] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "keyword": "online business",
+  "max_results": 50
+}
+[2026-01-09 15:58:18.469] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching keyword: 'online business'
+[2026-01-09 15:58:18.469] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:58:18.469] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:58:18.469] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:58:18.469] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByHashtag
+[2026-01-09 15:58:18.469] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "hashtag": "onlinebusiness",
+  "max_results": 50
+}
+[2026-01-09 15:58:18.469] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching hashtag: #onlinebusiness
+[2026-01-09 15:58:18.553] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:58:18.553] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.08s
+[2026-01-09 15:58:18.553] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:58:24.427] [INFO    ] [MAIN      ] [Thread-140689527960192]    📊 Total videos so far: 0
+[2026-01-09 15:58:24.428] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+🔍 Searching niche: digital marketing
+[2026-01-09 15:58:24.428] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByKeyword
+[2026-01-09 15:58:24.428] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "keyword": "digital marketing",
+  "max_results": 50
+}
+[2026-01-09 15:58:24.428] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching keyword: 'digital marketing'
+[2026-01-09 15:58:24.428] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:58:24.428] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:58:24.428] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:58:24.428] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByHashtag
+[2026-01-09 15:58:24.429] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "hashtag": "digitalmarketing",
+  "max_results": 50
+}
+[2026-01-09 15:58:24.429] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching hashtag: #digitalmarketing
+[2026-01-09 15:58:24.548] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:58:24.549] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.12s
+[2026-01-09 15:58:24.549] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:58:28.030] [INFO    ] [MAIN      ] [Thread-140304861180544] ======================================================================
+[2026-01-09 15:58:28.030] [INFO    ] [MAIN      ] [Thread-140304861180544] 🚀 AFFILIFY TIKTOK DOMINATION SYSTEM - LOGGING INITIALIZED
+[2026-01-09 15:58:28.031] [INFO    ] [MAIN      ] [Thread-140304861180544] ======================================================================
+[2026-01-09 15:58:29.322] [INFO    ] [MAIN      ] [Thread-140304861180544] ======================================================================
+[2026-01-09 15:58:29.322] [INFO    ] [MAIN      ] [Thread-140304861180544] 🧠 JARVIS BRAIN ONLINE
+[2026-01-09 15:58:29.322] [INFO    ] [MAIN      ] [Thread-140304861180544]    Gemini 2.5 Flash Neural Network: ACTIVE
+[2026-01-09 15:58:29.322] [INFO    ] [MAIN      ] [Thread-140304861180544]    Monitoring Systems: INITIALIZING
+[2026-01-09 15:58:29.322] [INFO    ] [MAIN      ] [Thread-140304861180544]    Code Modification Engine: READY
+[2026-01-09 15:58:29.322] [INFO    ] [MAIN      ] [Thread-140304861180544] ======================================================================
+[2026-01-09 15:58:30.935] [INFO    ] [MAIN      ] [Thread-140304861180544] ▶️  START: DolphinX1_Setup
+[2026-01-09 15:58:30.936] [DEBUG   ] [MAIN      ] [Thread-140304861180544]    Context: {
+  "model": "dolphin-x1-llama-3.1:latest"
+}
+[2026-01-09 15:58:31.482] [ERROR   ] [MAIN      ] [Thread-140304861180544] 🔥 ERROR: DolphinX1_Setup | Failed to setup: Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1.
+[2026-01-09 15:58:31.482] [INFO    ] [MAIN      ] [Thread-140304861180544] ⏹️  END: DolphinX1_Setup | ❌ FAILED | Duration: 0.55s
+[2026-01-09 15:58:31.482] [DEBUG   ] [MAIN      ] [Thread-140304861180544]    Details: {
+  "error": "Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1."
+}
+[2026-01-09 15:58:31.485] [INFO    ] [MAIN      ] [Thread-140304861180544] 
+================================================================================
+[2026-01-09 15:58:31.486] [INFO    ] [MAIN      ] [Thread-140304861180544] 🏢 AFFILIFY COMMAND CENTER - INITIALIZATION SEQUENCE
+[2026-01-09 15:58:31.486] [INFO    ] [MAIN      ] [Thread-140304861180544] ================================================================================
+[2026-01-09 15:58:31.486] [INFO    ] [MAIN      ] [Thread-140304861180544] 🏛️ Affillify Domination System Engine initialized
+[2026-01-09 15:58:31.486] [INFO    ] [MAIN      ] [Thread-140304861180544] 🤖 TikTok Automation V2 initialized
+[2026-01-09 15:58:31.486] [INFO    ] [MAIN      ] [Thread-140304861180544] 🎯 Military-Grade Video Scraper initialized
+[2026-01-09 15:58:31.487] [INFO    ] [MAIN      ] [Thread-140304861180544] 🔬 Advanced Video Filter initialized
+[2026-01-09 15:58:31.487] [INFO    ] [MAIN      ] [Thread-140304861180544] 🎯 Comment Strategy Selector initialized
+[2026-01-09 15:58:31.487] [INFO    ] [MAIN      ] [Thread-140304861180544] 🎯 Master Target Coordinator initialized
+[2026-01-09 15:58:31.487] [INFO    ] [MAIN      ] [Thread-140304861180544] 🎯 Comment Strategy Selector initialized
+[2026-01-09 15:58:31.487] [INFO    ] [MAIN      ] [Thread-140304861180544] ✅ Command Center initialized
+[2026-01-09 15:58:31.487] [INFO    ] [MAIN      ] [Thread-140304861180544] ▶️  START: CommandCenter_Startup
+[2026-01-09 15:58:31.487] [DEBUG   ] [MAIN      ] [Thread-140304861180544]    Context: {}
+[2026-01-09 15:58:31.487] [INFO    ] [MAIN      ] [Thread-140304861180544] 
+🚀 STARTING SYSTEM COMPONENTS...
+[2026-01-09 15:58:31.487] [INFO    ] [MAIN      ] [Thread-140304861180544]    1/5 Initializing Gemini 2.5 Pro & Flash...
+[2026-01-09 15:58:31.488] [INFO    ] [MAIN      ] [Thread-140304861180544] 🧠 Gemini Comment Generator initialized with AFFILIFY knowledge
+[2026-01-09 15:58:31.488] [INFO    ] [MAIN      ] [Thread-140304861180544] ✅ Gemini Assistant initialized with gemini-2.5-flash
+[2026-01-09 15:58:31.488] [INFO    ] [MAIN      ] [Thread-140304861180544]    ✅ Gemini AI Engines ready
+[2026-01-09 15:58:31.488] [INFO    ] [MAIN      ] [Thread-140304861180544]    2/5 Booting JARVIS Brain...
+[2026-01-09 15:58:31.488] [INFO    ] [MAIN      ] [Thread-140304861180544] ▶️  START: JarvisBrain_Startup
+[2026-01-09 15:58:31.488] [DEBUG   ] [MAIN      ] [Thread-140304861180544]    Context: {}
+[2026-01-09 15:58:31.488] [INFO    ] [MAIN      ] [Thread-140304861180544] 
+🚀 JARVIS STARTUP SEQUENCE
+[2026-01-09 15:58:31.488] [INFO    ] [MAIN      ] [Thread-140304861180544] ⏹️  END: JarvisBrain_Startup | ✅ SUCCESS | Duration: 0.00s
+[2026-01-09 15:58:31.489] [INFO    ] [MAIN      ] [Thread-140304861180544] ✅ JARVIS FULLY OPERATIONAL
+[2026-01-09 15:58:31.489] [INFO    ] [MAIN      ] [Thread-140304861180544]    'Ready to assist, sir.'
+
+[2026-01-09 15:58:31.489] [INFO    ] [MAIN      ] [Thread-140304861180544] 📊 Log Monitor: ACTIVE
+[2026-01-09 15:58:31.489] [INFO    ] [MAIN      ] [Thread-140304861180544] ⚡ Performance Monitor: ACTIVE
+[2026-01-09 15:58:31.489] [INFO    ] [MAIN      ] [Thread-140304861180544] 🔥 Error Monitor: ACTIVE
+[2026-01-09 15:58:31.489] [INFO    ] [MAIN      ] [Thread-140304861180544] 🎯 Optimization Engine: ACTIVE
+[2026-01-09 15:58:31.489] [INFO    ] [MAIN      ] [Thread-140304861180544] 🛡️ Proactive Maintenance: ACTIVE
+[2026-01-09 15:58:32.706] [INFO    ] [MAIN      ] [Thread-140689527960192]    📊 Total videos so far: 0
+[2026-01-09 15:58:32.706] [INFO    ] [MAIN      ] [Thread-140689527960192] 
+🔍 Searching niche: entrepreneur
+[2026-01-09 15:58:32.707] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByKeyword
+[2026-01-09 15:58:32.707] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "keyword": "entrepreneur",
+  "max_results": 50
+}
+[2026-01-09 15:58:32.707] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching keyword: 'entrepreneur'
+[2026-01-09 15:58:32.707] [ERROR   ] [MAIN      ] [Thread-140689527960192] 🔥 ERROR: SearchByKeyword | type object 'Search' has no attribute 'videos'
+[2026-01-09 15:58:32.707] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByKeyword | ❌ FAILED | Duration: 0.00s
+[2026-01-09 15:58:32.707] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "error": "type object 'Search' has no attribute 'videos'"
+}
+[2026-01-09 15:58:32.707] [INFO    ] [MAIN      ] [Thread-140689527960192] ▶️  START: SearchByHashtag
+[2026-01-09 15:58:32.707] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Context: {
+  "hashtag": "entrepreneur",
+  "max_results": 50
+}
+[2026-01-09 15:58:32.707] [INFO    ] [MAIN      ] [Thread-140689527960192] 🔍 Searching hashtag: #entrepreneur
+[2026-01-09 15:58:33.085] [INFO    ] [MAIN      ] [Thread-140689527960192] ⏹️  END: SearchByHashtag | ✅ SUCCESS | Duration: 0.38s
+[2026-01-09 15:58:33.086] [DEBUG   ] [MAIN      ] [Thread-140689527960192]    Details: {
+  "videos_found": 0
+}
+[2026-01-09 15:58:33.086] [INFO    ] [MAIN      ] [Thread-140689527960192] ✅ Found 0 videos for #entrepreneur
+[2026-01-09 15:58:33.491] [INFO    ] [MAIN      ] [Thread-140304861180544]    ✅ JARVIS operational
+[2026-01-09 15:58:33.491] [INFO    ] [MAIN      ] [Thread-140304861180544]    3/5 Verifying TikTok accounts...
+[2026-01-09 15:58:33.492] [INFO    ] [MAIN      ] [Thread-140304861180544]    ✅ 0 accounts ready
+[2026-01-09 15:58:33.492] [INFO    ] [MAIN      ] [Thread-140304861180544]    4/5 Starting real-time dashboard...
+[2026-01-09 15:58:34.250] [INFO    ] [MAIN      ] [Thread-140689527960192] 🏛️ Affillify Domination System Engine initialized
+[2026-01-09 15:58:40.980] [INFO    ] [MAIN      ] [Thread-140606676394624] ======================================================================
+[2026-01-09 15:58:40.980] [INFO    ] [MAIN      ] [Thread-140606676394624] 🚀 AFFILIFY TIKTOK DOMINATION SYSTEM - LOGGING INITIALIZED
+[2026-01-09 15:58:40.981] [INFO    ] [MAIN      ] [Thread-140606676394624] ======================================================================
+[2026-01-09 15:58:42.283] [INFO    ] [MAIN      ] [Thread-140606676394624] ======================================================================
+[2026-01-09 15:58:42.283] [INFO    ] [MAIN      ] [Thread-140606676394624] 🧠 JARVIS BRAIN ONLINE
+[2026-01-09 15:58:42.283] [INFO    ] [MAIN      ] [Thread-140606676394624]    Gemini 2.5 Flash Neural Network: ACTIVE
+[2026-01-09 15:58:42.283] [INFO    ] [MAIN      ] [Thread-140606676394624]    Monitoring Systems: INITIALIZING
+[2026-01-09 15:58:42.283] [INFO    ] [MAIN      ] [Thread-140606676394624]    Code Modification Engine: READY
+[2026-01-09 15:58:42.283] [INFO    ] [MAIN      ] [Thread-140606676394624] ======================================================================
+[2026-01-09 15:58:43.928] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: DolphinX1_Setup
+[2026-01-09 15:58:43.928] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {
+  "model": "dolphin-x1-llama-3.1:latest"
+}
+[2026-01-09 15:58:44.454] [ERROR   ] [MAIN      ] [Thread-140606676394624] 🔥 ERROR: DolphinX1_Setup | Failed to setup: Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1.
+[2026-01-09 15:58:44.454] [INFO    ] [MAIN      ] [Thread-140606676394624] ⏹️  END: DolphinX1_Setup | ❌ FAILED | Duration: 0.53s
+[2026-01-09 15:58:44.454] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Details: {
+  "error": "Command '['ollama', 'pull', 'dolphin-x1-llama-3.1:latest']' returned non-zero exit status 1."
+}
+[2026-01-09 15:58:44.457] [INFO    ] [MAIN      ] [Thread-140606676394624] 
+================================================================================
+[2026-01-09 15:58:44.458] [INFO    ] [MAIN      ] [Thread-140606676394624] 🏢 AFFILIFY COMMAND CENTER - INITIALIZATION SEQUENCE
+[2026-01-09 15:58:44.458] [INFO    ] [MAIN      ] [Thread-140606676394624] ================================================================================
+[2026-01-09 15:58:44.458] [INFO    ] [MAIN      ] [Thread-140606676394624] 🏛️ Affillify Domination System Engine initialized
+[2026-01-09 15:58:44.459] [INFO    ] [MAIN      ] [Thread-140606676394624] 🤖 TikTok Automation V2 initialized
+[2026-01-09 15:58:44.459] [INFO    ] [MAIN      ] [Thread-140606676394624] 🎯 Military-Grade Video Scraper initialized
+[2026-01-09 15:58:44.459] [INFO    ] [MAIN      ] [Thread-140606676394624] 🔬 Advanced Video Filter initialized
+[2026-01-09 15:58:44.459] [INFO    ] [MAIN      ] [Thread-140606676394624] 🎯 Comment Strategy Selector initialized
+[2026-01-09 15:58:44.459] [INFO    ] [MAIN      ] [Thread-140606676394624] 🎯 Master Target Coordinator initialized
+[2026-01-09 15:58:44.459] [INFO    ] [MAIN      ] [Thread-140606676394624] 🎯 Comment Strategy Selector initialized
+[2026-01-09 15:58:44.459] [INFO    ] [MAIN      ] [Thread-140606676394624] ✅ Command Center initialized
+[2026-01-09 15:58:44.459] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: CommandCenter_Startup
+[2026-01-09 15:58:44.460] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {}
+[2026-01-09 15:58:44.460] [INFO    ] [MAIN      ] [Thread-140606676394624] 
+🚀 STARTING SYSTEM COMPONENTS...
+[2026-01-09 15:58:44.460] [INFO    ] [MAIN      ] [Thread-140606676394624]    1/5 Initializing Gemini 2.5 Pro & Flash...
+[2026-01-09 15:58:44.460] [INFO    ] [MAIN      ] [Thread-140606676394624] 🧠 Gemini Comment Generator initialized with AFFILIFY knowledge
+[2026-01-09 15:58:44.460] [INFO    ] [MAIN      ] [Thread-140606676394624] ✅ Gemini Assistant initialized with gemini-2.5-flash
+[2026-01-09 15:58:44.460] [INFO    ] [MAIN      ] [Thread-140606676394624]    ✅ Gemini AI Engines ready
+[2026-01-09 15:58:44.460] [INFO    ] [MAIN      ] [Thread-140606676394624]    2/5 Booting JARVIS Brain...
+[2026-01-09 15:58:44.460] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: JarvisBrain_Startup
+[2026-01-09 15:58:44.460] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {}
+[2026-01-09 15:58:44.461] [INFO    ] [MAIN      ] [Thread-140606676394624] 
+🚀 JARVIS STARTUP SEQUENCE
+[2026-01-09 15:58:44.461] [INFO    ] [MAIN      ] [Thread-140606676394624] ⏹️  END: JarvisBrain_Startup | ✅ SUCCESS | Duration: 0.00s
+[2026-01-09 15:58:44.461] [INFO    ] [MAIN      ] [Thread-140606676394624] ✅ JARVIS FULLY OPERATIONAL
+[2026-01-09 15:58:44.461] [INFO    ] [MAIN      ] [Thread-140606676394624]    'Ready to assist, sir.'
+
+[2026-01-09 15:58:44.461] [INFO    ] [MAIN      ] [Thread-140606676394624] 📊 Log Monitor: ACTIVE
+[2026-01-09 15:58:44.461] [INFO    ] [MAIN      ] [Thread-140606676394624] ⚡ Performance Monitor: ACTIVE
+[2026-01-09 15:58:44.462] [INFO    ] [MAIN      ] [Thread-140606676394624] 🔥 Error Monitor: ACTIVE
+[2026-01-09 15:58:44.462] [INFO    ] [MAIN      ] [Thread-140606676394624] 🎯 Optimization Engine: ACTIVE
+[2026-01-09 15:58:44.462] [INFO    ] [MAIN      ] [Thread-140606676394624] 🛡️ Proactive Maintenance: ACTIVE
+[2026-01-09 15:58:46.463] [INFO    ] [MAIN      ] [Thread-140606676394624]    ✅ JARVIS operational
+[2026-01-09 15:58:46.463] [INFO    ] [MAIN      ] [Thread-140606676394624]    3/5 Verifying TikTok accounts...
+[2026-01-09 15:58:46.464] [INFO    ] [MAIN      ] [Thread-140606676394624]    ✅ 0 accounts ready
+[2026-01-09 15:58:46.464] [INFO    ] [MAIN      ] [Thread-140606676394624]    4/5 Starting real-time dashboard...
+[2026-01-09 15:58:47.465] [INFO    ] [MAIN      ] [Thread-140606676394624]    ✅ Dashboard live at http://localhost:8000
+[2026-01-09 15:58:47.465] [INFO    ] [MAIN      ] [Thread-140606676394624]    5/5 Discovering high-value targets...
+[2026-01-09 15:58:47.466] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: DiscoverAndPrioritizeTargets
+[2026-01-09 15:58:47.466] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {
+  "max_videos": 500
+}
+[2026-01-09 15:58:47.466] [INFO    ] [MAIN      ] [Thread-140606676394624] 
+======================================================================
+[2026-01-09 15:58:47.466] [INFO    ] [MAIN      ] [Thread-140606676394624] 🚀 MASTER TARGET COORDINATOR - FULL PIPELINE
+[2026-01-09 15:58:47.466] [INFO    ] [MAIN      ] [Thread-140606676394624] ======================================================================
+[2026-01-09 15:58:47.466] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: InitializeTikTokAPI
+[2026-01-09 15:58:47.466] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {}
+[2026-01-09 15:58:59.336] [INFO    ] [MAIN      ] [Thread-140606676394624] ⏹️  END: InitializeTikTokAPI | ✅ SUCCESS | Duration: 11.87s
+[2026-01-09 15:58:59.337] [INFO    ] [MAIN      ] [Thread-140606676394624] ✅ TikTok API ready
+[2026-01-09 15:58:59.337] [INFO    ] [MAIN      ] [Thread-140606676394624] 
+📡 PHASE 1: Video Discovery
+[2026-01-09 15:58:59.337] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: DiscoverTargets
+[2026-01-09 15:58:59.337] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {
+  "max_videos": 500
+}
+[2026-01-09 15:58:59.337] [INFO    ] [MAIN      ] [Thread-140606676394624] ======================================================================
+[2026-01-09 15:58:59.337] [INFO    ] [MAIN      ] [Thread-140606676394624] 🎯 STARTING COMPREHENSIVE TARGET DISCOVERY
+[2026-01-09 15:58:59.337] [INFO    ] [MAIN      ] [Thread-140606676394624] ======================================================================
+[2026-01-09 15:58:59.338] [INFO    ] [MAIN      ] [Thread-140606676394624] 
+🔍 Searching niche: affiliate marketing
+[2026-01-09 15:58:59.338] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: SearchByKeyword
+[2026-01-09 15:58:59.338] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {
+  "keyword": "affiliate marketing",
+  "max_results": 50
+}
+[2026-01-09 15:58:59.338] [INFO    ] [MAIN      ] [Thread-140606676394624] 🔍 Searching keyword: 'affiliate marketing'
+[2026-01-09 15:58:59.458] [ERROR   ] [MAIN      ] [Thread-140606676394624] ❌ Trending search failed: None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:58:59.459] [INFO    ] [MAIN      ] [Thread-140606676394624] ⏹️  END: SearchByKeyword | ✅ SUCCESS | Duration: 0.12s
+[2026-01-09 15:58:59.459] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Details: {
+  "videos_found": 0
+}
+[2026-01-09 15:58:59.459] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: SearchByHashtag
+[2026-01-09 15:58:59.459] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {
+  "hashtag": "affiliatemarketing",
+  "max_results": 50
+}
+[2026-01-09 15:58:59.459] [INFO    ] [MAIN      ] [Thread-140606676394624] 🔍 Searching hashtag: #affiliatemarketing
+[2026-01-09 15:58:59.529] [ERROR   ] [MAIN      ] [Thread-140606676394624] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:58:59.529] [INFO    ] [MAIN      ] [Thread-140606676394624] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.07s
+[2026-01-09 15:58:59.529] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
+[2026-01-09 15:59:07.967] [INFO    ] [MAIN      ] [Thread-140606676394624]    📊 Total videos so far: 0
+[2026-01-09 15:59:07.967] [INFO    ] [MAIN      ] [Thread-140606676394624] 
+🔍 Searching niche: make money online
+[2026-01-09 15:59:07.968] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: SearchByKeyword
+[2026-01-09 15:59:07.968] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {
+  "keyword": "make money online",
+  "max_results": 50
+}
+[2026-01-09 15:59:07.968] [INFO    ] [MAIN      ] [Thread-140606676394624] 🔍 Searching keyword: 'make money online'
+[2026-01-09 15:59:08.033] [ERROR   ] [MAIN      ] [Thread-140606676394624] ❌ Trending search failed: None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:59:08.033] [INFO    ] [MAIN      ] [Thread-140606676394624] ⏹️  END: SearchByKeyword | ✅ SUCCESS | Duration: 0.07s
+[2026-01-09 15:59:08.033] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Details: {
+  "videos_found": 0
+}
+[2026-01-09 15:59:08.034] [INFO    ] [MAIN      ] [Thread-140606676394624] ▶️  START: SearchByHashtag
+[2026-01-09 15:59:08.034] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Context: {
+  "hashtag": "makemoneyonline",
+  "max_results": 50
+}
+[2026-01-09 15:59:08.034] [INFO    ] [MAIN      ] [Thread-140606676394624] 🔍 Searching hashtag: #makemoneyonline
+[2026-01-09 15:59:08.099] [ERROR   ] [MAIN      ] [Thread-140606676394624] 🔥 ERROR: SearchByHashtag | None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy
+[2026-01-09 15:59:08.099] [INFO    ] [MAIN      ] [Thread-140606676394624] ⏹️  END: SearchByHashtag | ❌ FAILED | Duration: 0.07s
+[2026-01-09 15:59:08.099] [DEBUG   ] [MAIN      ] [Thread-140606676394624]    Details: {
+  "error": "None -> TikTok returned an empty response. They are detecting you're a bot, try some of these: headless=False, browser='webkit', consider using a proxy"
+}
